@@ -1,0 +1,52 @@
+.declerations {
+    text-align: center;
+    margin: auto;
+}
+
+.table {
+    font-family: 'Oswald', sans-serif;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 700px;
+}
+
+.properties {
+    text-align: center;
+    margin: auto;
+}
+
+.description {
+    font-family: 'Pacifico', cursive;
+}
+
+h1 {
+    background-color: red;
+    border: 5px solid black;
+}
+
+h2 {
+    color: aqua;
+    background-color: black;
+}
+
+td {
+    border-top: 2px solid black;
+    color: brown;
+}
+
+th{
+    background-color: black;
+    color: aqua;
+    border-radius: 5px; 
+}
+
+tbody {
+    font-family:'Times New Roman', Times, serif
+}
+
+.code !important {
+    font-family: monospace;
+    background-color: blue; 
+}
+
