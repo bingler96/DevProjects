@@ -1,0 +1,106 @@
+/* Universal Stylining */
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+
+  .color-container {
+    width: 100%;
+  }
+
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+
+  .aqua {
+    background-color: #00FFFF;
+    color: #fff;
+  }
+
+  .crimson {
+    background-color: #DC143C;
+    color: #fff;
+  }
+
+  .darkseagreen {
+    background-color: #8FBC8F;
+    color: #fff;
+  }
+
+  .gold {
+    background-color: #ffd700;
+    color: #fff;
+  }
+
+  .lawngreen {
+    background-color: #7CFC00;
+    color: #fff;
+  }
+
+  .teal {
+    background-color: #40e0d0;
+    color: #fff
+  }
+
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+
+  .regular {
+    font-style: normal;
+  }
+
+  .italic {
+    font-style: italic;
+  }
+
+  .bold {
+    font-weight: 700;
+  }
+
+  .times-new-roman {
+    font-family: 'times new roman', 'Times New Roman', Times, serif;
+  }
+
+  .tahoma {
+    font-family: 'tahoma', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+ .arial {
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
